@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Assignment # 01</title>
+</head>
+<body>
+    <h1>Introduction</h1>
+    <p> my name is Sana kiran
+            Goal: I am looking for (Software Engineer).
+            Interest/passion: I am interested in Web developement & web designing
+            Strengths: I have many skills to contribute including (strengths) and (skills)</p>
+    <h2>Sana Kiran</h2>
+    <h3>PR2.0-2023-02G</h3>
+    <h4>ADSE</h4>
+    <h5>HTML</h5>
+    <6>7 to 9</6><br>
+
+    <b>Sana kiran</b><br>
+    <strong>sana kiran</strong><br>
+    <i>sana kiran</i><br>
+    <em>sana kiran</em><br>
+    <u>sana kiran</u><br>
+    <del>sana kiran</del><br>
+    <small>sana kiran</small><br>
+    <ins>sana kiran</ins><br>
+    <cite>sana kiran</cite><br>
+    <samp>sana kiran</samp><br>
+    <br>
+    NO<sub>2</sub>
+    Co<sub>2</sub>
+    10<sup>2</sup><br>
+
+    <pre>Abu Huraira reported: The Messenger of Allah, peace and <br>blessings be upon him, said, “Among the perfection of one’s Islam is to leave what does not concern him.”<br> Source: Sunan al-Tirmidhī 2679 Grade: Hasan (fair) according to Al-Nawawi<br> عَنْ ‌أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا …</pre>
+   <br>
+   <code>If (success==true) {
+        say_Alhamdulillah();
+        } else {
+        try_Again();
+        }</code>
+
+        <blockquote>سورة الإخلاص
+                ﷽<br>
+                
+                قُلْ هُوَ اللَّهُ أَحَدٌ ﴿1﴾ اللَّهُ الصَّمَدُ ﴿2﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿3﴾ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ﴿4﴾<br>“ Say, 'He is God the One, God the eternal. He begot no one nor was He begotten. No one is comparable to Him. '”</blockquote><br>
+
+                <dfn>The Qur'an (Arabic: القرآن) is the holy book of Islam. <br>The Qur'an is considered by Muslims to be <br>"The Word of Allah (God)". <br>This book is different from other religious texts<br> in that it is believed to be the literal words of God, through the prophet Muhammad.</dfn>
+    
+    
+</body>
+</html>

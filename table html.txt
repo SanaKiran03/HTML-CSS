@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>TABLE</title>
+</head>
+<body>
+    <table border="03">
+        <thead>
+            <tr>
+             <th>S/No</th>
+             <th>Name</th>
+             <th>Father Name</th>
+             <th>Date of Birth</th>
+             <th>Location</th>   
+            </tr>
+            <tbody>
+                <tr>
+                 <td>01</td>
+                 <td>Ammar</td>
+                 <td>Imran Raza</td>
+                 <td>18-sep-2003</td>
+                 <td>Gulshan-e-Iqbal</td>   
+
+                </tr>
+                <tr>
+                        <td>02</td>
+                        <td>sumaiya</td>
+                        <td>Zaheer</td>
+                        <td>10-oct-1999</td>
+                        <td>Gulshan</td>   
+       
+                       </tr>
+                       <tr>
+                            <td>03</td>
+                            <td>Zaryab</td>
+                            <td>Etheshan uddin</td>
+                            <td>05-Oct-2023</td>
+                            <td>Defence</td>   
+           
+                           </tr>
+                           <tr>
+                                <td>04</td>
+                                <td>Faiza</td>
+                                <td>Nizam</td>
+                                <td>5-july-2000</td>
+                                <td>Gulshan-e-Iqbal</td>   
+               
+                               </tr>
+                               <tr>
+                                    <td>05</td>
+                                    <td>Waqas</td>
+                                    <td>Altaf</td>
+                                    <td>16-feb-1993</td>
+                                    <td>Nazimabad</td>   
+                   
+                                   </tr>
+            </tbody>
+        </thead>
+    </table>
+    
+    
+</body>
+</html>
